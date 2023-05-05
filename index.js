@@ -16,6 +16,7 @@ app.get('/data', (req, res) => {
     res.send(Data);
 })
 
+
 app.get('/data/:id', (req, res) => {
     const id = req.params.id;
     const selectData = Data.find(n => n.id === id);
