@@ -5,7 +5,7 @@
         "experience": 40,
         "recipes": 20,
         "likes": 800,
-        "image": "https://cdn.imgbin.com/25/7/16/imgbin-martin-yan-cooking-at-home-television-show-kqed-tv-chef-chef-s-association-wok-ep5r5tsWM1Bjcnn35Q9z3ytKj.jpg",
+        "image": "https://www.reviewjournal.com/wp-content/uploads/2023/02/17488478_web1_web_M.Y.-Asia_Martin-Yan-Dishes.jpg?crop=1",
         "bio": "Martin Yan is a Chinese-American chef and television host. He is best known for his PBS television show Yan Can Cook. Yan is an expert in Chinese cuisine and has written numerous cookbooks on the subject.",
         "recipesList": [
             {
@@ -74,6 +74,119 @@
                 ],
                 "cookingMethod": "Cut the pork into bite-sized pieces and marinate with soy sauce, sugar, and cornstarch. In a wok, heat oil and stir-fry the pork until browned. Add the pineapple, bell pepper, onion, tomato sauce, sugar, vinegar, and water. Cook until the sauce thickens.",
                 "rating": 4.2,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Gordon Ramsay",
+        "experience": 30,
+        "recipes": 50,
+        "likes": 1200,
+        "image": "https://s.hdnux.com/photos/01/20/03/72/20987538/4/rawImage.jpg",
+        "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality. He is known for his fiery personality and his Michelin-starred restaurants.",
+        "recipesList": [
+            {
+                "name": "Beef Wellington",
+                "ingredients": [
+                    "beef tenderloin",
+                    "puff pastry",
+                    "mushrooms",
+                    "shallots",
+                    "prosciutto",
+                    "Dijon mustard",
+                    "egg",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Sear the beef tenderloin and set aside. Saute mushrooms and shallots, then spread on prosciutto. Brush beef with Dijon mustard and wrap in the prosciutto/mushroom mixture. Roll out puff pastry, place beef on top, and wrap. Brush with egg wash and bake until golden brown.",
+                "rating": 4.8,
+                "favorite": true
+            },
+            {
+                "name": "Scrambled Eggs",
+                "ingredients": [
+                    "eggs",
+                    "butter",
+                    "salt",
+                    "pepper",
+                    "chives"
+                ],
+                "cookingMethod": "Whisk eggs with salt and pepper. Melt butter in a nonstick pan over low heat. Add eggs and stir constantly, scraping the bottom of the pan until cooked but still soft. Top with chives.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": [
+                    "ground lamb",
+                    "onion",
+                    "carrot",
+                    "peas",
+                    "beef stock",
+                    "tomato paste",
+                    "Worcestershire sauce",
+                    "mashed potatoes"
+                ],
+                "cookingMethod": "Brown lamb, onion, and carrot in a pan. Add peas, beef stock, tomato paste, and Worcestershire sauce. Simmer until thickened. Spread mashed potatoes on top and bake until golden brown.",
+                "rating": 4.4,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Ina Garten",
+        "experience": 25,
+        "recipes": 30,
+        "likes": 1200,
+        "image": "https://www.foodandwine.com/thmb/5unLsehhjHUTG3CU7GjOsMpmgF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ina-garten-new-food-network-tv-series-FT-BLOG0222-8ce1460d6041445881d5549a1d3753e1.jpg",
+        "bio": "Ina Garten is an American chef, author, and television personality. She is best known for her Food Network show Barefoot Contessa and her series of cookbooks. Garten focuses on using high-quality ingredients and simple techniques to create delicious and approachable dishes.",
+        "recipesList": [
+            {
+                "name": "Roast Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "garlic",
+                    "thyme",
+                    "olive oil",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Rub chicken with olive oil, salt, and pepper. Stuff cavity with lemon halves and garlic cloves. Roast in the oven with thyme until the chicken is cooked through.",
+                "rating": 4.8,
+                "favorite": true
+            },
+            {
+                "name": "Parmesan Roasted Broccoli",
+                "ingredients": [
+                    "broccoli",
+                    "olive oil",
+                    "garlic",
+                    "Parmesan cheese",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Toss broccoli with olive oil, garlic, Parmesan cheese, salt, and pepper. Roast in the oven until the broccoli is tender and the cheese is golden brown.",
+                "rating": 4.6,
+                "favorite": true
+            },
+            {
+                "name": "Pasta with Pesto",
+                "ingredients": [
+                    "pasta",
+                    "basil",
+                    "pine nuts",
+                    "Parmesan cheese",
+                    "garlic",
+                    "olive oil",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Cook pasta according to package instructions. Blend basil, pine nuts, Parmesan cheese, garlic, olive oil, salt, and pepper to make pesto. Toss pasta with pesto and serve.",
+                "rating": 4.4,
                 "favorite": false
             }
         ]
