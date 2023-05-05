@@ -377,5 +377,67 @@
                 "favorite": false
             }
         ]
+    },
+    {
+        "id": "7",
+        "name": "Chef Susanna Foo",
+        "experience": 35,
+        "recipes": 75,
+        "likes": 3000,
+        "image": "data:image/jpeg;base64,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",
+        "bio": "Chef Susanna Foo is a highly acclaimed Chinese-American chef known for her innovative fusion of Chinese and French cuisine. With over 35 years of culinary experience, Chef Foo has made a significant impact on the culinary world with her unique flavors and artistic presentation. Her restaurants have received numerous awards and accolades, including multiple James Beard Foundation honors.",
+        "recipesList": [
+            {
+                "name": "Peking Duck",
+                "ingredients": [
+                    "whole duck",
+                    "soy sauce",
+                    "hoisin sauce",
+                    "rice vinegar",
+                    "sugar",
+                    "scallions",
+                    "cucumber",
+                    "pancakes"
+                ],
+                "cookingMethod": "Prepare the duck by marinating it with soy sauce, hoisin sauce, rice vinegar, and sugar. Roast the duck until the skin turns crispy and the meat is tender. Serve the Peking duck with thin pancakes, accompanied by scallions and cucumber for a refreshing crunch.",
+                "rating": 4.9,
+                "favorite": false
+            },
+            {
+                "name": "Lobster with Ginger and Scallions",
+                "ingredients": [
+                    "lobster",
+                    "ginger",
+                    "scallions",
+                    "garlic",
+                    "soy sauce",
+                    "rice wine",
+                    "sugar",
+                    "cornstarch",
+                    "vegetable oil"
+                ],
+                "cookingMethod": "In a hot wok, stir-fry ginger, scallions, and garlic in vegetable oil until fragrant. Add the lobster pieces and continue stir-frying until cooked. Create a sauce with soy sauce, rice wine, sugar, and cornstarch, and pour it over the lobster. Stir-fry for a few more minutes until the sauce thickens. Serve hot.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "name": "Mongolian Beef",
+                "ingredients": [
+                    "beef sirloin",
+                    "soy sauce",
+                    "hoisin sauce",
+                    "rice wine",
+                    "sugar",
+                    "garlic",
+                    "ginger",
+                    "scallions",
+                    "cornstarch",
+                    "vegetable oil"
+                ],
+                "cookingMethod": "Slice beef sirloin into thin strips. In a hot wok, stir-fry garlic, ginger, and scallions in vegetable oil. Add the beef and continue stir-frying until cooked. Create a sauce with soy sauce, hoisin sauce, rice wine, sugar, and cornstarch, and pour it over the beef. Stir-fry for a few more minutes until the sauce thickens. Serve with steamed rice.",
+                "rating": 4.6,
+                "favorite": false
+            }
+        ]
     }
 ]
