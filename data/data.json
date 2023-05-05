@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "name": "Martin Yan",
+        "experience": 40,
+        "recipes": 20,
+        "likes": 800,
+        "image": "https://cdn.imgbin.com/25/7/16/imgbin-martin-yan-cooking-at-home-television-show-kqed-tv-chef-chef-s-association-wok-ep5r5tsWM1Bjcnn35Q9z3ytKj.jpg",
+        "bio": "Martin Yan is a Chinese-American chef and television host. He is best known for his PBS television show Yan Can Cook. Yan is an expert in Chinese cuisine and has written numerous cookbooks on the subject.",
+        "recipesList": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken",
+                    "peanuts",
+                    "chili peppers",
+                    "scallions",
+                    "ginger",
+                    "garlic",
+                    "soy sauce",
+                    "vinegar",
+                    "sugar",
+                    "cornstarch"
+                ],
+                "cookingMethod": "Marinate chicken with soy sauce, vinegar, sugar, and cornstarch. Stir-fry chicken with peanuts, chili peppers, scallions, ginger, and garlic until chicken is cooked through.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "pork",
+                    "tofu",
+                    "bamboo shoots",
+                    "mushrooms",
+                    "egg",
+                    "cornstarch",
+                    "soy sauce",
+                    "vinegar",
+                    "chili oil",
+                    "white pepper"
+                ],
+                "cookingMethod": "Boil pork in water to make broth. Add tofu, bamboo shoots, and mushrooms to broth. Mix cornstarch with water and add to soup to thicken. Beat egg and pour into soup. Add soy sauce, vinegar, chili oil, and white pepper to taste.",
+                "rating": 4.3,
+                "favorite": false
+            },
+            {
+                "name": "Moo Shu Pork",
+                "ingredients": [
+                    "pork",
+                    "wood ear mushrooms",
+                    "cabbage",
+                    "carrots",
+                    "scallions",
+                    "eggs",
+                    "hoisin sauce",
+                    "soy sauce",
+                    "sesame oil",
+                    "tortillas"
+                ],
+                "cookingMethod": "Stir-fry pork, mushrooms, cabbage, carrots"
+            },
+            {
+                "name": "Sweet and Sour Pork",
+                "ingredients": [
+                    "pork",
+                    "pineapple",
+                    "bell pepper",
+                    "onion",
+                    "tomato sauce",
+                    "sugar",
+                    "vinegar",
+                    "cornstarch"
+                ],
+                "cookingMethod": "Cut the pork into bite-sized pieces and marinate with soy sauce, sugar, and cornstarch. In a wok, heat oil and stir-fry the pork until browned. Add the pineapple, bell pepper, onion, tomato sauce, sugar, vinegar, and water. Cook until the sauce thickens.",
+                "rating": 4.2,
+                "favorite": false
+            }
+        ]
+    }
+]
