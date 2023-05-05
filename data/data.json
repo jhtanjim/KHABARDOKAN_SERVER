@@ -190,5 +190,192 @@
                 "favorite": false
             }
         ]
+    },
+    {
+        "id": "4",
+        "name": "Julia Child",
+        "experience": 50,
+        "recipes": 30,
+        "likes": 1000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ1--decdoI9e0dCcr87BgzpXMd6xlhVgEg&usqp=CAU",
+        "bio": "Julia Child was an American chef, author, and television personality. She is credited with introducing French cuisine to the American public through her cookbook, Mastering the Art of French Cooking, and her television show, The French Chef.",
+        "recipesList": [
+            {
+                "name": "Boeuf Bourguignon",
+                "ingredients": [
+                    "beef chuck",
+                    "bacon",
+                    "onions",
+                    "carrots",
+                    "garlic",
+                    "red wine",
+                    "beef broth",
+                    "tomato paste",
+                    "thyme",
+                    "bay leaf",
+                    "butter",
+                    "flour",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Brown beef chuck and bacon in butter. Add onions, carrots, and garlic. Deglaze with red wine. Add beef broth, tomato paste, thyme, and bay leaf. Simmer until beef is tender. Sauté mushrooms and add to the stew. Thicken with a flour and butter mixture. Season with salt and pepper to taste.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "name": "Coq au Vin",
+                "ingredients": [
+                    "chicken",
+                    "bacon",
+                    "mushrooms",
+                    "onions",
+                    "carrots",
+                    "garlic",
+                    "red wine",
+                    "chicken broth",
+                    "tomato paste",
+                    "thyme",
+                    "bay leaf",
+                    "butter",
+                    "flour",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Sauté chicken and bacon in butter. Remove and sauté mushrooms, onions, and carrots in the same pan. Add garlic, tomato paste, and flour. Deglaze with red wine and chicken broth. Add thyme, bay leaf, and the chicken and bacon back to the pan. Simmer until chicken is cooked through. Season with salt and pepper to taste.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "name": "Ratatouille",
+                "ingredients": [
+                    "eggplant",
+                    "zucchini",
+                    "bell peppers",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "olive oil",
+                    "basil",
+                    "thyme",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Sauté onions and garlic in olive oil. Add eggplant, zucchini, bell peppers, and tomatoes. Season with salt, pepper, basil, and thyme. Simmer until vegetables are cooked through.",
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "beef sirloin",
+                    "onions",
+                    "mushrooms",
+                    "beef broth",
+                    "sour cream",
+                    "dijon mustard",
+                    "egg noodles",
+                    "butter",
+                    "flour",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Sauté beef sirloin in butter. Remove and sauté onions and mushrooms in the same pan. Add flour and beef broth to make a gravy. Add sour cream and dijon mustard. Add the beef back to the pan and simmer until cooked through. Serve over egg noodles.",
+                "rating": 4.3,
+                "favorite": false
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Chef Danny Bowien",
+        "experience": 15,
+        "recipes": 50,
+        "likes": 2000,
+        "image": "data:image/jpeg;base64,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",
+        "bio": "Chef Danny Bowien is an American chef and restaurateur, known for his unique take on Chinese cuisine. He is the founder of Mission Chinese Food and Mission Cantina in New York City and San Francisco.",
+        "recipesList": [
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "ground pork",
+                    "soft tofu",
+                    "Sichuan peppercorns",
+                    "doubanjiang",
+                    "garlic",
+                    "ginger",
+                    "scallions",
+                    "chicken stock",
+                    "cornstarch",
+                    "soy sauce",
+                    "Shaoxing wine",
+                    "sugar",
+                    "sesame oil"
+                ],
+                "cookingMethod": "Brown ground pork and set aside. Sauté garlic, ginger, and scallions in oil. Add Sichuan peppercorns and doubanjiang. Add chicken stock and soy sauce. Add cornstarch slurry to thicken the sauce. Add tofu and pork back to the pan. Season with Shaoxing wine, sugar, and sesame oil to taste.",
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "cornstarch",
+                    "Sichuan peppercorns",
+                    "dried red chili peppers",
+                    "ginger",
+                    "garlic",
+                    "scallions",
+                    "hoisin sauce",
+                    "soy sauce",
+                    "rice vinegar",
+                    "sugar",
+                    "peanuts",
+                    "vegetable oil"
+                ],
+                "cookingMethod": "Dust chicken breast with cornstarch and fry until golden brown. Set aside. Sauté Sichuan peppercorns, dried red chili peppers, ginger, garlic, and scallions in oil. Add hoisin sauce, soy sauce, rice vinegar, and sugar. Add chicken and peanuts back to the pan. Stir until coated with sauce.",
+                "rating": 4.6,
+                "favorite": false
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "ground pork",
+                    "Chinese sesame paste",
+                    "chili oil",
+                    "Sichuan peppercorns",
+                    "garlic",
+                    "ginger",
+                    "scallions",
+                    "chicken stock",
+                    "soy sauce",
+                    "Shaoxing wine",
+                    "sugar",
+                    "sesame oil",
+                    "spinach noodles"
+                ],
+                "cookingMethod": "Brown ground pork and set aside. Sauté garlic, ginger, and scallions in oil. Add Chinese sesame paste, chili oil, and Sichuan peppercorns. Add chicken stock and soy sauce. Season with Shaoxing wine, sugar, and sesame oil. Cook spinach noodles and add to the sauce. Top with the ground pork.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "name": "Chongqing Chicken Wings",
+                "ingredients": [
+                    "chicken wings",
+                    "Sichuan peppercorns",
+                    "dried red chili peppers",
+                    "garlic",
+                    "ginger",
+                    "scallions",
+                    "cornstarch",
+                    "soy sauce",
+                    "rice vinegar",
+                    "sugar",
+                    "vegetable oil"
+                ],
+                "cookingMethod": "Deep-fry chicken wings until crispy. Set aside. Sauté Sichuan peppercorns, dried red chili peppers, garlic, ginger, and scallions in oil. Add soy sauce, rice vinegar, and sugar. Add chicken wings back to the pan and coat with the sauce. Serve hot.",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
     }
 ]
